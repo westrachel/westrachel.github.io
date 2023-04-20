@@ -2509,6 +2509,11 @@ input, select, textarea {
 
 /* Image */
 
+	.projects {
+		object-fit: scale-down; 
+		max-width: 100%;
+	}
+
 	.image {
 		border-radius: 4px;
 		border: 0;
