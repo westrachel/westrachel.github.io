@@ -2153,7 +2153,7 @@ input, select, textarea {
 		#edamame-horiz-stretch {display: none;}
 		#edamame-lg {display:none;}
 
-		@media all and (max-width: 1000px) {
+		@media all and (max-width: 1100px) {
 			#edamame-sm {display: none;}
 			#edamame-med {display: none;}
 			#edamame-wide {display: none;}
@@ -2254,6 +2254,11 @@ input, select, textarea {
 		font-size: 0.9em;
 		font-weight: 300;
 		margin: 0 0 1em 0;
+	}
+
+	.subtitle {
+		font-size: 24px;
+		font-weight: bold;
 	}
 
 	input[type="text"],
