@@ -2147,6 +2147,7 @@ input, select, textarea {
 
 		}
 
+
 		#edamame-sm {display:block;}
 		#edamame-med {display:none;}
 		#edamame-wide {display:none;}
@@ -2183,6 +2184,10 @@ input, select, textarea {
 			#edamame-wide {display: none;}
 			#edamame-horiz-stretch {display: none;}
 			#edamame-lg {display: block;}
+
+			video {
+				width: 100%;
+			}
 		}
 
 /* Section/Article */
